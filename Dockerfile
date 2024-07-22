@@ -13,4 +13,3 @@ RUN yarn install
 COPY . .
 RUN yarn build
 
-EXPOSE 5555
